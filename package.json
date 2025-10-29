@@ -1,0 +1,27 @@
+{
+  "name": "proyectofinal",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000b\u0000o\u0000l\u0000i\u0000v\u0000i\u0000a\u0000_\u0000e\u0000n\u0000_\u0000u\u0000n\u0000_\u0000c\u0000l\u0000i\u0000c\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RonnPC/bolivia_en_un_clic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RonnPC/bolivia_en_un_clic/issues"
+  },
+  "homepage": "https://github.com/RonnPC/bolivia_en_un_clic#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.9.2",
+    "allure-commandline": "^2.34.1",
+    "allure-playwright": "^3.4.2"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^10.1.0"
+  }
+}
