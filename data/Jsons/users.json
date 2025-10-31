@@ -1,0 +1,58 @@
+{
+  "Email valido, Contraseña valida": {
+    "email": "riter.cordova@gmail.com",
+    "password": "riterangel",
+    "valido": true
+  },
+  "Email valido, Contraseña invalida": {
+    "email": "riter.cordova@gmail.com",
+    "password": "riter12345",
+    "valido": true
+  },
+  "Email valido, Contraseña vacia": {
+    "email": "riter.cordova@gmail.com",
+    "password": "",
+    "valido": false
+  },
+  "Email vacio, Contraseña vacia": {
+    "email": "",
+    "password": "",
+    "valido": false
+  },
+  "Email vacio, Contraseña valida": {
+    "email": "",
+    "password": "riterangel",
+    "valido": false
+  },
+  "Email sin @, Contraseña valida": {
+    "email": "riter.cordova",
+    "password": "riterangel",
+    "valido": false
+  },
+  "Email sin @, Contraseña vacia": {
+    "email": "riter.cordova",
+    "password": "riterangel",
+    "valido": false
+  },
+  "Email sin dominio, Contraseña vacia": {
+    "email": "riter.cordova@",
+    "password": "",
+    "valido": false
+  },
+  "Email sin dominio, Contraseña valida": {
+    "email": "riter.cordova",
+    "password": "riterangel",
+    "valido": false
+  },
+  "Email > 74 caracteres invalido, Contraseña valida": {
+    "email": "FBWFnYQqEZwMeRyxWNGiFNqzWCHRzvDmVBbtLitgcspUyfpeeqtAZRRrNcLdYXKKe@gmail.com",
+    "password": "riterangel",
+    "valido": false
+  },
+  "Email <= 74 caracteres valido, Contraseña valida": {
+    "email": "riter.cordova@gmail.com",
+    "password": "riterangel",
+    "valido": true
+  }
+
+}
