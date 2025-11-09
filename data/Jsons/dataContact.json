@@ -1,0 +1,300 @@
+[
+  {
+    "Titulo": "NroWP caracteres especiales, Facebook inválido, Instagram vacío, TikTok válido, LinkedIn inválido, Twitter vacío",
+    "nroWP": "56@98#12",
+    "facebook": "perfil_fb",
+    "instagram": "",
+    "tiktok": "https://tiktok.com/@user1",
+    "linkedin": "link_user",
+    "twitter": ""
+  },
+  {
+    "Titulo": "NroWP caracteres especiales, Facebook vacío, Instagram válido, TikTok inválido, LinkedIn vacío, Twitter válido",
+    "nroWP": "56@98#12",
+    "facebook": "",
+    "instagram": "https://instagram.com/user2",
+    "tiktok": "user_tt",
+    "linkedin": "",
+    "twitter": "https://twitter.com/user2"
+  },
+  {
+    "Titulo": "NroWP caracteres especiales, Facebook vacío, Instagram válido, TikTok válido, LinkedIn inválido, Twitter vacío",
+    "nroWP": "56@98#12",
+    "facebook": "",
+    "instagram": "https://instagram.com/user3",
+    "tiktok": "https://tiktok.com/@user3",
+    "linkedin": "link_invalido",
+    "twitter": ""
+  },
+  {
+    "Titulo": "NroWP caracteres especiales, Facebook válido, Instagram inválido, TikTok vacío, LinkedIn válido, Twitter inválido",
+    "nroWP": "56@98#12",
+    "facebook": "https://facebook.com/user4",
+    "instagram": "perfil_invalido",
+    "tiktok": "",
+    "linkedin": "https://linkedin.com/in/user4",
+    "twitter": "user_twitter"
+  },
+  {
+    "Titulo": "NroWP vacío, Facebook vacío, Instagram válido, TikTok vacío, LinkedIn inválido, Twitter válido",
+    "nroWP": "",
+    "facebook": "",
+    "instagram": "https://instagram.com/user5",
+    "tiktok": "",
+    "linkedin": "perfil_linkedin",
+    "twitter": "https://twitter.com/user5"
+  },
+  {
+    "Titulo": "NroWP vacío, Facebook válido, Instagram inválido, TikTok válido, LinkedIn vacío, Twitter válido",
+    "nroWP": "",
+    "facebook": "https://facebook.com/user6",
+    "instagram": "insta_invalido",
+    "tiktok": "https://tiktok.com/@user6",
+    "linkedin": "",
+    "twitter": "https://twitter.com/user6"
+  },
+  {
+    "Titulo": "NroWP vacío, Facebook válido, Instagram vacío, TikTok inválido, LinkedIn válido, Twitter inválido",
+    "nroWP": "",
+    "facebook": "https://facebook.com/user7",
+    "instagram": "",
+    "tiktok": "user_tt",
+    "linkedin": "https://linkedin.com/in/user7",
+    "twitter": "perfil_invalido"
+  },
+  {
+    "Titulo": "NroWP vacío, Facebook inválido, Instagram válido, TikTok vacío, LinkedIn válido, Twitter vacío",
+    "nroWP": "",
+    "facebook": "perfil_invalido",
+    "instagram": "https://instagram.com/user8",
+    "tiktok": "",
+    "linkedin": "https://linkedin.com/in/user8",
+    "twitter": ""
+  },
+  {
+    "Titulo": "NroWP letras, Facebook válido, Instagram válido, TikTok vacío, LinkedIn vacío, Twitter inválido",
+    "nroWP": "abc",
+    "facebook": "https://facebook.com/user9",
+    "instagram": "https://instagram.com/user9",
+    "tiktok": "",
+    "linkedin": "",
+    "twitter": "user_tt"
+  },
+  {
+    "Titulo": "NroWP letras, Facebook vacío, Instagram inválido, TikTok inválido, LinkedIn válido, Twitter válido",
+    "nroWP": "abc",
+    "facebook": "",
+    "instagram": "perfil_invalido",
+    "tiktok": "user_tiktok",
+    "linkedin": "https://linkedin.com/in/user10",
+    "twitter": "https://twitter.com/user10"
+  },
+  {
+    "Titulo": "NroWP letras, Facebook válido, Instagram válido, TikTok válido, LinkedIn vacío, Twitter vacío",
+    "nroWP": "abc",
+    "facebook": "https://facebook.com/user11",
+    "instagram": "https://instagram.com/user11",
+    "tiktok": "https://tiktok.com/@user11",
+    "linkedin": "",
+    "twitter": ""
+  },
+  {
+    "Titulo": "NroWP letras, Facebook inválido, Instagram inválido, TikTok válido, LinkedIn válido, Twitter válido",
+    "nroWP": "abc",
+    "facebook": "perfil_invalido",
+    "instagram": "insta_invalido",
+    "tiktok": "https://tiktok.com/@user12",
+    "linkedin": "https://linkedin.com/in/user12",
+    "twitter": "https://twitter.com/user12"
+  },
+  {
+    "Titulo": "NroWP letras, Facebook vacío, Instagram vacío, TikTok inválido, LinkedIn inválido, Twitter válido",
+    "nroWP": "abc",
+    "facebook": "",
+    "instagram": "",
+    "tiktok": "user_tiktok",
+    "linkedin": "perfil_invalido",
+    "twitter": "https://twitter.com/user13"
+  },
+  {
+    "Titulo": "NroWP mayor a 8, Facebook inválido, Instagram inválido, TikTok vacío, LinkedIn vacío, Twitter válido",
+    "nroWP": "123456789",
+    "facebook": "perfil_fb",
+    "instagram": "insta_invalido",
+    "tiktok": "",
+    "linkedin": "",
+    "twitter": "https://twitter.com/user14"
+  },
+  {
+    "Titulo": "NroWP mayor a 8, Facebook válido, Instagram válido, TikTok válido, LinkedIn inválido, Twitter inválido",
+    "nroWP": "123456789",
+    "facebook": "https://facebook.com/user15",
+    "instagram": "https://instagram.com/user15",
+    "tiktok": "https://tiktok.com/@user15",
+    "linkedin": "link_invalido",
+    "twitter": "perfil_invalido"
+  },
+  {
+    "Titulo": "NroWP mayor a 8, Facebook inválido, Instagram vacío, TikTok vacío, LinkedIn válido, Twitter válido",
+    "nroWP": "123456789",
+    "facebook": "perfil_invalido",
+    "instagram": "",
+    "tiktok": "",
+    "linkedin": "https://linkedin.com/in/user16",
+    "twitter": "https://twitter.com/user16"
+  },
+  {
+    "Titulo": "NroWP mayor a 8, Facebook vacío, Instagram válido, TikTok válido, LinkedIn válido, Twitter inválido",
+    "nroWP": "123456789",
+    "facebook": "",
+    "instagram": "https://instagram.com/user17",
+    "tiktok": "https://tiktok.com/@user17",
+    "linkedin": "https://linkedin.com/in/user17",
+    "twitter": "perfil_tt"
+  },
+  {
+    "Titulo": "NroWP mayor a 8, Facebook válido, Instagram válido, TikTok inválido, LinkedIn inválido, Twitter vacío",
+    "nroWP": "123456789",
+    "facebook": "https://facebook.com/user18",
+    "instagram": "https://instagram.com/user18",
+    "tiktok": "perfil_invalido",
+    "linkedin": "link_invalido",
+    "twitter": ""
+  },
+  {
+    "Titulo": "NroWP menor a 7, Facebook vacío, Instagram válido, TikTok inválido, LinkedIn válido, Twitter inválido",
+    "nroWP": "123456",
+    "facebook": "",
+    "instagram": "https://instagram.com/user19",
+    "tiktok": "perfil_invalido",
+    "linkedin": "https://linkedin.com/in/user19",
+    "twitter": "perfil_tt"
+  },
+  {
+    "Titulo": "NroWP menor a 7, Facebook válido, Instagram inválido, TikTok vacío, LinkedIn válido, Twitter vacío",
+    "nroWP": "123456",
+    "facebook": "https://facebook.com/user20",
+    "instagram": "perfil_invalido",
+    "tiktok": "",
+    "linkedin": "https://linkedin.com/in/user20",
+    "twitter": ""
+  },
+  {
+    "Titulo": "NroWP menor a 7, Facebook válido, Instagram vacío, TikTok válido, LinkedIn inválido, Twitter válido",
+    "nroWP": "123456",
+    "facebook": "https://facebook.com/user21",
+    "instagram": "",
+    "tiktok": "https://tiktok.com/@user21",
+    "linkedin": "perfil_linkedin",
+    "twitter": "https://twitter.com/user21"
+  },
+  {
+    "Titulo": "NroWP menor a 7, Facebook inválido, Instagram válido, TikTok inválido, LinkedIn vacío, Twitter válido",
+    "nroWP": "123456",
+    "facebook": "perfil_invalido",
+    "instagram": "https://instagram.com/user22",
+    "tiktok": "perfil_tiktok",
+    "linkedin": "",
+    "twitter": "https://twitter.com/user22"
+  },
+  {
+    "Titulo": "NroWP menor a 7, Facebook vacío, Instagram válido, TikTok vacío, LinkedIn válido, Twitter inválido",
+    "nroWP": "123456",
+    "facebook": "",
+    "instagram": "https://instagram.com/user23",
+    "tiktok": "",
+    "linkedin": "https://linkedin.com/in/user23",
+    "twitter": "perfil_tt"
+  },
+  {
+    "Titulo": "NroWP menor a 7, Facebook válido, Instagram inválido, TikTok válido, LinkedIn inválido, Twitter vacío",
+    "nroWP": "123456",
+    "facebook": "https://facebook.com/user24",
+    "instagram": "perfil_invalido",
+    "tiktok": "https://tiktok.com/@user24",
+    "linkedin": "perfil_linkedin",
+    "twitter": ""
+  },
+  {
+    "Titulo": "NroWP menor a 7, Facebook inválido, Instagram vacío, TikTok válido, LinkedIn vacío, Twitter válido",
+    "nroWP": "123456",
+    "facebook": "perfil_invalido",
+    "instagram": "",
+    "tiktok": "https://tiktok.com/@user25",
+    "linkedin": "",
+    "twitter": "https://twitter.com/user25"
+  },
+  {
+    "Titulo": "NroWP válido, Facebook válido, Instagram vacío, TikTok inválido, LinkedIn válido, Twitter vacío",
+    "nroWP": "56987654",
+    "facebook": "https://facebook.com/user26",
+    "instagram": "",
+    "tiktok": "perfil_tiktok",
+    "linkedin": "https://linkedin.com/in/user26",
+    "twitter": ""
+  },
+  {
+    "Titulo": "NroWP válido, Facebook válido, Instagram válido, TikTok vacío, LinkedIn inválido, Twitter válido",
+    "nroWP": "56987654",
+    "facebook": "https://facebook.com/user27",
+    "instagram": "https://instagram.com/user27",
+    "tiktok": "",
+    "linkedin": "perfil_linkedin",
+    "twitter": "https://twitter.com/user27"
+  },
+  {
+    "Titulo": "NroWP válido, Facebook inválido, Instagram válido, TikTok válido, LinkedIn vacío, Twitter inválido",
+    "nroWP": "56987654",
+    "facebook": "perfil_invalido",
+    "instagram": "https://instagram.com/user28",
+    "tiktok": "https://tiktok.com/@user28",
+    "linkedin": "",
+    "twitter": "perfil_tt"
+  },
+  {
+    "Titulo": "NroWP válido, Facebook vacío, Instagram inválido, TikTok válido, LinkedIn válido, Twitter vacío",
+    "nroWP": "56987654",
+    "facebook": "",
+    "instagram": "perfil_invalido",
+    "tiktok": "https://tiktok.com/@user29",
+    "linkedin": "https://linkedin.com/in/user29",
+    "twitter": ""
+  },
+  {
+    "Titulo": "NroWP válido, Facebook válido, Instagram vacío, TikTok inválido, LinkedIn válido, Twitter válido",
+    "nroWP": "56987654",
+    "facebook": "https://facebook.com/user30",
+    "instagram": "",
+    "tiktok": "perfil_invalido",
+    "linkedin": "https://linkedin.com/in/user30",
+    "twitter": "https://twitter.com/user30"
+  },
+  {
+    "Titulo": "NroWP válido, Facebook inválido, Instagram válido, TikTok vacío, LinkedIn inválido, Twitter válido",
+    "nroWP": "56987654",
+    "facebook": "perfil_invalido",
+    "instagram": "https://instagram.com/user31",
+    "tiktok": "",
+    "linkedin": "perfil_invalido",
+    "twitter": "https://twitter.com/user31"
+  },
+  {
+    "Titulo": "NroWP válido, Facebook vacío, Instagram inválido, TikTok válido, LinkedIn vacío, Twitter inválido",
+    "nroWP": "56987654",
+    "facebook": "",
+    "instagram": "perfil_invalido",
+    "tiktok": "https://tiktok.com/@user32",
+    "linkedin": "",
+    "twitter": "perfil_tt"
+  },
+  {
+    "Titulo": "NroWP válido, Facebook válido, Instagram válido, TikTok válido, LinkedIn válido, Twitter válido",
+    "nroWP": "56981234",
+    "facebook": "https://facebook.com/user33",
+    "instagram": "https://instagram.com/user33",
+    "tiktok": "https://tiktok.com/@user33",
+    "linkedin": "https://linkedin.com/in/user33",
+    "twitter": "https://twitter.com/user33",
+    "Valido": true
+  }
+]

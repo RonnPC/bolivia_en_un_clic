@@ -10,4 +10,3 @@ node_modules/
 .github
 /allure-results
 /reports
-package-lock.json

@@ -1,0 +1,123 @@
+[
+  {
+    "Titulo": "App válido, Ofertas inválido, Ecommerce inválido, Menu inválido, Catalogo inválido",
+    "App": "https://app.com/caso1",
+    "Ofertas": "ofertas.com/caso1",
+    "Ecommerce": "ecommerce.com/caso1",
+    "Menu": "menu.com/caso1",
+    "Catalogo": "catalogo.com/caso1"
+  },
+  {
+    "Titulo": "App válido, Ofertas vacío, Ecommerce vacío, Menu vacío, Catalogo vacío",
+    "App": "https://app.com/caso2",
+    "Ofertas": "",
+    "Ecommerce": "",
+    "Menu": "",
+    "Catalogo": ""
+  },
+  {
+    "Titulo": "App inválido, Ofertas inválido, Ecommerce vacío, Menu válido, Catalogo válido",
+    "App": "app.com/caso3",
+    "Ofertas": "ofertas.com/caso3",
+    "Ecommerce": "",
+    "Menu": "https://menu.com/caso3",
+    "Catalogo": "https://catalogo.com/caso3"
+  },
+  {
+    "Titulo": "App inválido, Ofertas vacío, Ecommerce válido, Menu válido, Catalogo inválido",
+    "App": "app.com/caso4",
+    "Ofertas": "",
+    "Ecommerce": "https://ecommerce.com/caso4",
+    "Menu": "https://menu.com/caso4",
+    "Catalogo": "catalogo.com/caso4"
+  },
+  {
+    "Titulo": "App inválido, Ofertas válido, Ecommerce válido, Menu inválido, Catalogo vacío",
+    "App": "app.com/caso5",
+    "Ofertas": "https://ofertas.com/caso5",
+    "Ecommerce": "https://ecommerce.com/caso5",
+    "Menu": "menu.com/caso5",
+    "Catalogo": ""
+  },
+  {
+    "Titulo": "App inválido, Ofertas válido, Ecommerce inválido, Menu vacío, Catalogo válido",
+    "App": "app.com/caso6",
+    "Ofertas": "https://ofertas.com/caso6",
+    "Ecommerce": "ecommerce.com/caso6",
+    "Menu": "",
+    "Catalogo": "https://catalogo.com/caso6"
+  },
+  {
+    "Titulo": "App vacío, Ofertas vacío, Ecommerce válido, Menu vacío, Catalogo válido",
+    "App": "",
+    "Ofertas": "",
+    "Ecommerce": "https://ecommerce.com/caso7",
+    "Menu": "",
+    "Catalogo": "https://catalogo.com/caso7"
+  },
+  {
+    "Titulo": "App vacío, Ofertas válido, Ecommerce inválido, Menu válido, Catalogo inválido",
+    "App": "",
+    "Ofertas": "https://ofertas.com/caso8",
+    "Ecommerce": "ecommerce.com/caso8",
+    "Menu": "https://menu.com/caso8",
+    "Catalogo": "catalogo.com/caso8"
+  },
+  {
+    "Titulo": "App vacío, Ofertas válido, Ecommerce vacío, Menu válido, Catalogo vacío",
+    "App": "",
+    "Ofertas": "https://ofertas.com/caso9",
+    "Ecommerce": "",
+    "Menu": "https://menu.com/caso9",
+    "Catalogo": ""
+  },
+  {
+    "Titulo": "App vacío, Ofertas inválido, Ecommerce válido, Menu inválido, Catalogo válido",
+    "App": "",
+    "Ofertas": "ofertas.com/caso10",
+    "Ecommerce": "https://ecommerce.com/caso10",
+    "Menu": "menu.com/caso10",
+    "Catalogo": "https://catalogo.com/caso10"
+  },
+  {
+    "Titulo": "App válido, Ofertas válido, Ecommerce vacío, Menu inválido, Catalogo válido",
+    "App": "https://app.com/caso11",
+    "Ofertas": "https://ofertas.com/caso11",
+    "Ecommerce": "",
+    "Menu": "menu.com/caso11",
+    "Catalogo": "https://catalogo.com/caso11"
+  },
+  {
+    "Titulo": "App válido, Ofertas válido, Ecommerce válido, Menu vacío, Catalogo inválido",
+    "App": "https://app.com/caso12",
+    "Ofertas": "https://ofertas.com/caso12",
+    "Ecommerce": "https://ecommerce.com/caso12",
+    "Menu": "",
+    "Catalogo": "catalogo.com/caso12"
+  },
+  {
+    "Titulo": "App válido, Ofertas inválido, Ecommerce válido, Menu válido, Catalogo vacío",
+    "App": "https://app.com/caso13",
+    "Ofertas": "ofertas.com/caso13",
+    "Ecommerce": "https://ecommerce.com/caso13",
+    "Menu": "https://menu.com/caso13",
+    "Catalogo": ""
+  },
+  {
+    "Titulo": "App válido, Ofertas vacío, Ecommerce inválido, Menu válido, Catalogo válido",
+    "App": "https://app.com/caso14",
+    "Ofertas": "",
+    "Ecommerce": "ecommerce.com/caso14",
+    "Menu": "https://menu.com/caso14",
+    "Catalogo": "https://catalogo.com/caso14"
+  },
+  {
+    "Titulo": "App válido, Ofertas válido, Ecommerce válido, Menu válido, Catalogo válido",
+    "App": "https://app.com/caso15",
+    "Ofertas": "https://ofertas.com/caso15",
+    "Ecommerce": "https://ecommerce.com/caso15",
+    "Menu": "https://menu.com/caso15",
+    "Catalogo": "https://catalogo.com/caso15",
+    "Valido": true
+  }
+]

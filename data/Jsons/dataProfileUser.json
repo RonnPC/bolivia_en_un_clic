@@ -1,0 +1,480 @@
+[
+  {
+    "Titulo": "name caracteres especiales, description vacio, web vacio, wp letras, address valido, photo invalida",
+    "name": "@@##$$%%",
+    "description": "",
+    "web": "",
+    "wp": "abcdefgh",
+    "address": "Calle La Madrid 310, Tarija",
+    "photo": "Pairwise.xlsx"
+  },
+  {
+    "Titulo": "name caracteres especiales, description valido, web valido, wp >8, address vacio, photo vacio",
+    "name": "@@##$$%%",
+    "description": "Panadería artesanal en el centro",
+    "web": "https://empresa2.bo",
+    "wp": "960782684",
+    "address": "",
+    "photo": ""
+  },
+  {
+    "Titulo": "name caracteres especiales, description vacio, web invalido, wp <8, address valido, photo > 2mb",
+    "name": "@@##$$%%",
+    "description": "",
+    "web": "empresa3.bo",
+    "wp": "25590",
+    "address": "Av. Las Américas 901, Santa Cruz",
+    "photo": "19MbPhoto.jpg"
+  },
+  {
+    "Titulo": "name numeros, description vacio, web valido, wp vacio, address valido, photo vacio",
+    "name": "66810747",
+    "description": "",
+    "web": "https://empresa4.bo",
+    "wp": "",
+    "address": "Av. Heroínas 980, Cochabamba",
+    "photo": ""
+  },
+  {
+    "Titulo": "name numeros, description valido, web invalido, wp letras, address vacio, photo > 2mb",
+    "name": "76960066",
+    "description": "Academia de idiomas",
+    "web": "empresa5.bo",
+    "wp": "abcdefgh",
+    "address": "",
+    "photo": "19MbPhoto.jpg"
+  },
+  {
+    "Titulo": "name numeros, description valido, web vacio, wp >8, address valido, photo valido",
+    "name": "71916502",
+    "description": "Servicios de transporte local",
+    "web": "",
+    "wp": "972900694",
+    "address": "Calle Warnes 155, Santa Cruz",
+    "photo": "profile.jpg"
+  },
+  {
+    "Titulo": "name vacio, description vacio, web valido, wp valido, address vacio, photo vacio",
+    "name": "",
+    "description": "",
+    "web": "https://empresa7.bo",
+    "wp": "73452128",
+    "address": "",
+    "photo": ""
+  },
+  {
+    "Titulo": "name vacio, description valido, web invalido, wp caracteres especiales, address valido, photo > 2mb",
+    "name": "",
+    "description": "Tienda de electrónica",
+    "web": "empresa8.bo",
+    "wp": "@@##$$%%",
+    "address": "Calle Junín 234, Sucre",
+    "photo": "19MbPhoto.jpg"
+  },
+  {
+    "Titulo": "name vacio, description valido, web valido, wp letras, address valido, photo valido",
+    "name": "",
+    "description": "Panadería artesanal en el centro",
+    "web": "https://empresa9.bo",
+    "wp": "abcdefgh",
+    "address": "Av. Busch 321, Santa Cruz",
+    "photo": "profile.jpg"
+  },
+  {
+    "Titulo": "name vacio, description vacio, web invalido, wp >8, address vacio, photo invalida",
+    "name": "",
+    "description": "",
+    "web": "empresa10.bo",
+    "wp": "754650096",
+    "address": "",
+    "photo": "Pairwise.xlsx"
+  },
+  {
+    "Titulo": "name vacio, description valido, web vacio, wp <8, address valido, photo vacio",
+    "name": "",
+    "description": "Venta de productos ecológicos",
+    "web": "",
+    "wp": "54109",
+    "address": "Av. Blanco Galindo 220, Cochabamba",
+    "photo": ""
+  },
+  {
+    "Titulo": "name vacio, description valido, web vacio, wp vacio, address valido, photo invalida",
+    "name": "",
+    "description": "Consultora en marketing digital",
+    "web": "",
+    "wp": "",
+    "address": "Calle Aroma 543, Cochabamba",
+    "photo": "Pairwise.xlsx"
+  },
+  {
+    "Titulo": "name valido, description valido, web vacio, wp letras, address vacio, photo vacio",
+    "name": "Sofía Vargas",
+    "description": "Taller mecánico automotriz",
+    "web": "",
+    "wp": "abcdefgh",
+    "address": "",
+    "photo": ""
+  },
+  {
+    "Titulo": "name valido, description vacio, web valido, wp >8, address valido, photo > 2mb",
+    "name": "Rodrigo Méndez",
+    "description": "",
+    "web": "https://empresa14.bo",
+    "wp": "242105103",
+    "address": "Calle Ayacucho 350, La Paz",
+    "photo": "19MbPhoto.jpg"
+  },
+  {
+    "Titulo": "name valido, description valido, web invalido, wp <8, address valido, photo valido",
+    "name": "Natalia Romero",
+    "description": "Servicios de transporte local",
+    "web": "empresa15.bo",
+    "wp": "82219",
+    "address": "Av. Busch 321, Santa Cruz",
+    "photo": "profile.jpg"
+  },
+  {
+    "Titulo": "name valido, description vacio, web vacio, wp valido, address valido, photo valido",
+    "name": "Pablo Aguilar",
+    "description": "",
+    "web": "",
+    "wp": "63057288",
+    "address": "Calle Ayacucho 350, La Paz",
+    "photo": "profile.jpg"
+  },
+  {
+    "Titulo": "name valido, description valido, web valido, wp caracteres especiales, address vacio, photo valido",
+    "name": "Gabriela Molina",
+    "description": "Venta de repuestos de motos",
+    "web": "https://empresa17.bo",
+    "wp": "@@##$$%%",
+    "address": "",
+    "photo": "profile.jpg"
+  },
+  {
+    "Titulo": "name valido, description vacio, web invalido, wp vacio, address valido, photo invalida",
+    "name": "Sofía Vargas",
+    "description": "",
+    "web": "empresa18.bo",
+    "wp": "",
+    "address": "Av. Heroínas 980, Cochabamba",
+    "photo": "Pairwise.xlsx"
+  },
+  {
+    "Titulo": "name caracteres especiales, description vacio, web invalido, wp valido, address valido, photo > 2mb",
+    "name": "@@##$$%%",
+    "description": "",
+    "web": "empresa19.bo",
+    "wp": "72854013",
+    "address": "Calle Warnes 155, Santa Cruz",
+    "photo": "19MbPhoto.jpg"
+  },
+  {
+    "Titulo": "name caracteres especiales, description vacio, web valido, wp vacio, address valido, photo valido",
+    "name": "@@##$$%%",
+    "description": "",
+    "web": "https://empresa20.bo",
+    "wp": "",
+    "address": "Av. Busch 321, Santa Cruz",
+    "photo": "profile.jpg"
+  },
+  {
+    "Titulo": "name caracteres especiales, description valido, web invalido, wp valido, address vacio, photo invalida",
+    "name": "@@##$$%%",
+    "description": "Distribuidora de productos agrícolas",
+    "web": "empresa21.bo",
+    "wp": "67485689",
+    "address": "",
+    "photo": "Pairwise.xlsx"
+  },
+  {
+    "Titulo": "name caracteres especiales, description valido, web vacio, wp caracteres especiales, address valido, photo vacio",
+    "name": "@@##$$%%",
+    "description": "Escuela de música",
+    "web": "",
+    "wp": "@@##$$%%",
+    "address": "Av. Tadeo Haenke 980, Cochabamba",
+    "photo": ""
+  },
+  {
+    "Titulo": "name caracteres especiales, description vacio, web valido, wp vacio, address vacio, photo > 2mb",
+    "name": "@@##$$%%",
+    "description": "",
+    "web": "https://empresa23.bo",
+    "wp": "",
+    "address": "",
+    "photo": "19MbPhoto.jpg"
+  },
+  {
+    "Titulo": "name caracteres especiales, description vacio, web vacio, wp >8, address valido, photo invalida",
+    "name": "@@##$$%%",
+    "description": "",
+    "web": "",
+    "wp": "167995413",
+    "address": "Calle San Martín 450, Tarija",
+    "photo": "Pairwise.xlsx"
+  },
+  {
+    "Titulo": "name caracteres especiales, description valido, web valido, wp <8, address vacio, photo vacio",
+    "name": "@@##$$%%",
+    "description": "Negocio familiar de alimentos",
+    "web": "https://empresa25.bo",
+    "wp": "87811",
+    "address": "",
+    "photo": ""
+  },
+  {
+    "Titulo": "name numeros, description valido, web valido, wp valido, address valido, photo > 2mb",
+    "name": "78985078",
+    "description": "Servicios de transporte local",
+    "web": "https://empresa26.bo",
+    "wp": "69290859",
+    "address": "Av. Las Américas 901, Santa Cruz",
+    "photo": "19MbPhoto.jpg"
+  },
+  {
+    "Titulo": "name numeros, description vacio, web invalido, wp caracteres especiales, address vacio, photo valido",
+    "name": "60563294",
+    "description": "",
+    "web": "empresa27.bo",
+    "wp": "@@##$$%%",
+    "address": "",
+    "photo": "profile.jpg"
+  },
+  {
+    "Titulo": "name numeros, description valido, web vacio, wp vacio, address valido, photo invalida",
+    "name": "68487682",
+    "description": "Agencia de turismo en Uyuni",
+    "web": "",
+    "wp": "",
+    "address": "Av. 6 de Agosto 420, La Paz",
+    "photo": "Pairwise.xlsx"
+  },
+  {
+    "Titulo": "name numeros, description valido, web valido, wp letras, address valido, photo vacio",
+    "name": "66070337",
+    "description": "Restaurante de comida típica boliviana",
+    "web": "https://empresa29.bo",
+    "wp": "abcdefgh",
+    "address": "Av. Cañoto 640, Santa Cruz",
+    "photo": ""
+  },
+  {
+    "Titulo": "name numeros, description vacio, web invalido, wp >8, address vacio, photo > 2mb",
+    "name": "75017450",
+    "description": "",
+    "web": "empresa30.bo",
+    "wp": "855859855",
+    "address": "",
+    "photo": "19MbPhoto.jpg"
+  },
+  {
+    "Titulo": "name numeros, description valido, web vacio, wp <8, address valido, photo valido",
+    "name": "67637893",
+    "description": "Consultora en marketing digital",
+    "web": "",
+    "wp": "54515",
+    "address": "Av. 6 de Agosto 420, La Paz",
+    "photo": "profile.jpg"
+  },
+  {
+    "Titulo": "name numeros, description vacio, web valido, wp valido, address vacio, photo valido",
+    "name": "63798799",
+    "description": "",
+    "web": "https://empresa32.bo",
+    "wp": "76792477",
+    "address": "",
+    "photo": "profile.jpg"
+  },
+  {
+    "Titulo": "name numeros, description valido, web invalido, wp caracteres especiales, address valido, photo invalida",
+    "name": "75661734",
+    "description": "Servicios de belleza y estética",
+    "web": "empresa33.bo",
+    "wp": "@@##$$%%",
+    "address": "Calle Junín 234, Sucre",
+    "photo": "Pairwise.xlsx"
+  },
+  {
+    "Titulo": "name numeros, description vacio, web vacio, wp vacio, address vacio, photo vacio",
+    "name": "67188838",
+    "description": "",
+    "web": "",
+    "wp": "",
+    "address": "",
+    "photo": ""
+  },
+  {
+    "Titulo": "name vacio, description vacio, web vacio, wp letras, address vacio, photo valido",
+    "name": "",
+    "description": "",
+    "web": "",
+    "wp": "abcdefgh",
+    "address": "",
+    "photo": "profile.jpg"
+  },
+  {
+    "Titulo": "name vacio, description valido, web valido, wp >8, address valido, photo valido",
+    "name": "",
+    "description": "Hostal turístico",
+    "web": "https://empresa36.bo",
+    "wp": "490491968",
+    "address": "Av. Cañoto 640, Santa Cruz",
+    "photo": "profile.jpg"
+  },
+  {
+    "Titulo": "name vacio, description valido, web invalido, wp <8, address vacio, photo invalida",
+    "name": "",
+    "description": "Tienda de ropa artesanal",
+    "web": "empresa37.bo",
+    "wp": "30343",
+    "address": "",
+    "photo": "Pairwise.xlsx"
+  },
+  {
+    "Titulo": "name vacio, description vacio, web vacio, wp valido, address valido, photo vacio",
+    "name": "",
+    "description": "",
+    "web": "",
+    "wp": "61717244",
+    "address": "Av. Cristo Redentor 789, Santa Cruz",
+    "photo": ""
+  },
+  {
+    "Titulo": "name vacio, description valido, web valido, wp caracteres especiales, address vacio, photo > 2mb",
+    "name": "",
+    "description": "Academia de idiomas",
+    "web": "https://empresa39.bo",
+    "wp": "@@##$$%%",
+    "address": "",
+    "photo": "19MbPhoto.jpg"
+  },
+  {
+    "Titulo": "name vacio, description vacio, web invalido, wp vacio, address valido, photo valido",
+    "name": "",
+    "description": "",
+    "web": "empresa40.bo",
+    "wp": "",
+    "address": "Av. Heroínas 980, Cochabamba",
+    "photo": "profile.jpg"
+  },
+  {
+    "Titulo": "name vacio, description valido, web vacio, wp valido, address vacio, photo invalida",
+    "name": "",
+    "description": "Distribuidora de productos agrícolas",
+    "web": "",
+    "wp": "69864007",
+    "address": "",
+    "photo": "Pairwise.xlsx"
+  },
+  {
+    "Titulo": "name vacio, description vacio, web valido, wp caracteres especiales, address valido, photo vacio",
+    "name": "",
+    "description": "",
+    "web": "https://empresa42.bo",
+    "wp": "@@##$$%%",
+    "address": "Av. Cañoto 640, Santa Cruz",
+    "photo": ""
+  },
+  {
+    "Titulo": "name vacio, description valido, web invalido, wp vacio, address valido, photo > 2mb",
+    "name": "",
+    "description": "Servicio técnico de celulares",
+    "web": "empresa43.bo",
+    "wp": "",
+    "address": "Calle España 456, Cochabamba",
+    "photo": "19MbPhoto.jpg"
+  },
+  {
+    "Titulo": "name valido, description valido, web invalido, wp valido, address vacio, photo valido",
+    "name": "Gabriela Molina",
+    "description": "Negocio familiar de alimentos",
+    "web": "empresa44.bo",
+    "wp": "74173268",
+    "address": "",
+    "photo": "profile.jpg"
+  },
+  {
+    "Titulo": "name valido, description valido, web vacio, wp caracteres especiales, address valido, photo invalida",
+    "name": "Miguel Rojas",
+    "description": "Centro médico privado",
+    "web": "",
+    "wp": "@@##$$%%",
+    "address": "Calle Junín 234, Sucre",
+    "photo": "Pairwise.xlsx"
+  },
+  {
+    "Titulo": "name valido, description vacio, web valido, wp vacio, address vacio, photo vacio",
+    "name": "Ana Rojas",
+    "description": "",
+    "web": "https://empresa46.bo",
+    "wp": "",
+    "address": "",
+    "photo": ""
+  },
+  {
+    "Titulo": "name valido, description valido, web invalido, wp valido, address valido, photo > 2mb",
+    "name": "Sofía Vargas",
+    "description": "Taller mecánico automotriz",
+    "web": "empresa47.bo",
+    "wp": "78398748",
+    "address": "Calle Warnes 155, Santa Cruz",
+    "photo": "19MbPhoto.jpg"
+  },
+  {
+    "Titulo": "name valido, description vacio, web vacio, wp caracteres especiales, address valido, photo valido",
+    "name": "José Luis Quispe",
+    "description": "",
+    "web": "",
+    "wp": "@@##$$%%",
+    "address": "Calle España 456, Cochabamba",
+    "photo": "profile.jpg"
+  },
+  {
+    "Titulo": "name valido, description valido, web valido, wp vacio, address vacio, photo valido",
+    "name": "Carmen Paredes",
+    "description": "Consultora en marketing digital",
+    "web": "https://empresa49.bo",
+    "wp": "",
+    "address": "",
+    "photo": "profile.jpg"
+  },
+  {
+    "Titulo": "name valido, description vacio, web invalido, wp letras, address valido, photo invalida",
+    "name": "Diego Pinto",
+    "description": "",
+    "web": "empresa50.bo",
+    "wp": "abcdefgh",
+    "address": "Calle Illampu 678, La Paz",
+    "photo": "Pairwise.xlsx"
+  },
+  {
+    "Titulo": "name valido, description valido, web vacio, wp >8, address vacio, photo vacio",
+    "name": "Luis Gutiérrez",
+    "description": "Academia de idiomas",
+    "web": "",
+    "wp": "868825077",
+    "address": "",
+    "photo": ""
+  },
+  {
+    "Titulo": "name valido, description vacio, web valido, wp <8, address valido, photo > 2mb",
+    "name": "Adriana Mamani",
+    "description": "",
+    "web": "https://empresa52.bo",
+    "wp": "47932",
+    "address": "Calle España 456, Cochabamba",
+    "photo": "19MbPhoto.jpg"
+  },
+  {
+    "Titulo": "name valido, description valido, web valido, wp valido, address valido, photo valido",
+    "name": "Luis Gutiérrez",
+    "description": "Agencia de turismo en Uyuni",
+    "web": "https://empresa53.bo",
+    "wp": "76468697",
+    "address": "Av. Las Américas 901, Santa Cruz",
+    "photo": "profile.jpg",
+    "Valido": true
+  }
+]
